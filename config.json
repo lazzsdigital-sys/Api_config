@@ -1,3 +1,4 @@
 {
-"base_url": "http://gixsz.ptdlpanel.my.id:3013"
+"base_url": "http://gixsz.ptdlpanel.my.id:3013",
+"ws_url": "ws://panel.my.id:2026"
 }
